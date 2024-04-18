@@ -1,0 +1,37 @@
+/* .signup-container{
+
+}
+.signup-image{
+
+} */
+.alreadyhave-account {
+  font-size: 16px;
+  font-weight: bold;
+  margin: auto;
+  margin-top: 10px;
+}
+.signup-link {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(12, 128, 206);
+}
+
+
+/* 
+<div className="logo-image">
+              
+            </div>
+            <h1>APP NAME</h1>
+
+
+            import "./signup.css";
+import "../login/login.css";
+
+
+<p className="alreadyhave-account">
+            Already have an account? <Link className="signup-link" to="/">
+              Login
+         </Link>
+          </p>
+*/
